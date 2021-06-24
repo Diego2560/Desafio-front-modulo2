@@ -1,0 +1,19 @@
+.destaque {
+    height: 30vh;
+    
+}
+.destaque-vertical {
+    width: inherit;
+    height: inherit;
+    background: linear-gradient(to top,#111 10%, transparent 90%);
+}
+.destaque-horizontal {
+    width: inherit;
+    height: inherit;
+    background: linear-gradient(to right, #111 30%, transparent 70%);
+}
+
+.destaque img {
+    height: 180px;
+    width: 100%;
+}
